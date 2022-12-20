@@ -38,3 +38,5 @@ form.addEventListener('submit'), (event) => {
       console.error(error);
     })
 }
+<button onclick="window.location.href='/login.html'">Login</button>
+
