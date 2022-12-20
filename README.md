@@ -1,17 +1,20 @@
-Start by creating a basic HTML page with the appropriate structure, including the <html>, <head>, and <body> elements.
+Tuma - Money Transfer App
+Tuma is a simple and convenient app for transferring money to friends and family. With Tuma, you can easily send money using the Billplz API.
 
-Use CSS to style the page, including setting the font, colors, and layout. You can use a CSS framework like Bootstrap or create your own styles.
+Features
+Send money to anyone with an email address
+Fast and secure transactions using the Billplz API
+Easy to use interface
+Getting Started
+To use Tuma, simply visit the app's website and fill out the form to transfer money. Enter the recipient's name, email address, and the amount you want to send, and then click the "Send Money" button to complete the transaction.
 
-Add the necessary HTML elements to display the weather data. This may include elements like <h1> for the title, <p> for the current temperature, and <img> for an icon representing the current conditions.
+Support
+If you have any questions or need help using Tuma, please don't hesitate to contact us at support@tuma.com. We're here to help!
 
-Use JavaScript or a similar language to fetch the weather data from a weather API. This will typically involve making an HTTP request to the API and then parsing the JSON response to extract the relevant data.
+Contributions
+We welcome contributions to Tuma! If you have an idea for a new feature or a bug to report, please open an issue on our GitHub repository.
 
-Use the weather data to update the HTML elements on the page, showing the current temperature, conditions, and other relevant information.
+License
+Tuma is licensed under the MIT License. See the LICENSE file for more details.
 
-Test the app to ensure that it works as expected and that the weather data is displayed correctly.
-
-Overall, creating a weather app using HTML, CSS, and JavaScript is a relatively straightforward process that can be accomplished by following these steps.
-
-
-
-
+I hope this helps! Let me know if you have any other questions or if there is anything else I can help with.
